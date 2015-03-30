@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Gabi77_GoogleRemarketingTags>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Gabi77_GoogleRemarketingTags>
+    </modules>
+</config>
