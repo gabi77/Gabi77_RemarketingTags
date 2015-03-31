@@ -1,4 +1,4 @@
-# Gabi77_RemarketingTags
+# Google Remarketing Tags
 Magento Google Remarketing Tag
 
 French
